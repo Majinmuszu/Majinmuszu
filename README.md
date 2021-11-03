@@ -5,5 +5,5 @@
 - 🌱 I’m currently learning JavaScript
 - :hourglass_flowing_sand: Soon :fast_forward: ReactJS and Node.js 
 - 💬 Ask me about my ants :ant: 
-- 📫 How to reach me: e-mail
+- 📫 How to reach me: e-mail => artur.krasniewski1@gmail.com
 - :deciduous_tree: Nature is life 

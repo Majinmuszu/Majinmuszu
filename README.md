@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 - :alien: General Kenobi...
-- 🔭 I’m currently working on my first web app for client
+- 🔭 I’m currently working on my course homeworks 
 - 🌱 I’m currently learning React
 - :hourglass_flowing_sand: Soon :fast_forward: Node.js 
 - 💬 Ask me about my ants :ant: 

@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working on my course homeworks 
+- 🔭 Looking for remote job
 - 🌱 I’m currently learning Node.js
 - 💬 Ask me about my ants :ant: 
 - 📫 How to reach me: e-mail => artur.krasniewski1@gmail.com
